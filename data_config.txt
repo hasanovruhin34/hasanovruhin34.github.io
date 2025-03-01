@@ -1,3 +1,3 @@
 {
-"keys": "hsdjkhs8d7f"
+"alovin_native_di": "hsdjkhs8d7f"
 }
