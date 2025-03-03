@@ -1,3 +1,5 @@
 {
-"keyId": "hsdjkhs8d7f"
+"alovin_native_di": "aHR0cHM6Ly9ndXNvZGUub25saW5l",
+"detail_banner_key": "aHR0cHM6Ly9mbHVycnkuaW5mby9l",
+"prepare_inter": "admob"
 }
